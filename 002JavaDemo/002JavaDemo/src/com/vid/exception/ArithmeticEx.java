@@ -5,7 +5,7 @@ import java.io.IOException;
 public class ArithmeticEx {
 	public static void main(String[] args) {
 		
-	int a,b,c;
+	int a,b,c,d;
 	a=18;
 	b=0;
 	try {
