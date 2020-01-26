@@ -24,8 +24,5 @@ public class ArithmeticEx {
 		 * int d=a+b; System.out.println(d);
 		 */
 
-
-
-
 	}
 }
